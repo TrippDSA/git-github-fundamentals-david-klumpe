@@ -1,3 +1,5 @@
+David Klumpe has completed the assignment
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
